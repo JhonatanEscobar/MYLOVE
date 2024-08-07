@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
         [2, 4, 6]
     ];
     const playerImages = {
-        'X': 'C:/Users/usuario/Downloads/D.jpg',
-        'O': 'C:/Users/usuario/Downloads/J.jpg'
+        'X': 'D.jpg',
+        'O': 'J.jpg'
     };
 
     cells.forEach(cell => {
